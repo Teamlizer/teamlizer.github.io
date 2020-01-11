@@ -130,7 +130,7 @@
         });
     }
 
-    //Variables on page load 
+    /*//Variables on page load 
     var $myCarousel = $('.caption-slider'),
         $firstAnimatingElems = $myCarousel.find('.item:first').find("[data-animation ^= 'animated']");
 
@@ -190,7 +190,7 @@
             }
         });
 
-
+*/
 
 
 
